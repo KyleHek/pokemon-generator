@@ -1,0 +1,55 @@
+@font-face {
+    font-family: 'Pokemon Classic';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Pokemon Classic'), url('Pokemon\ Classic.woff') format('woff');
+  }
+
+.image {
+    display: block;
+    width: 160px;
+    max-height: 200px;
+    position: relative;
+    margin: 10px auto;
+}
+
+.hp {
+    width: 80px;
+    background-color: white;
+    text-align: center;
+    padding: 8px 0;
+    border-radius: 30px;
+    margin-left: auto;
+    font-weight: 400;
+}
+
+.name {
+    text-align: center;
+    font-weight: 600;
+}
+
+.types {
+    display: flex;
+    justify-content: space-around;
+    margin: 20;
+    font-family: "Pokemon Classic";
+    text-transform: uppercase;
+}
+
+.hp span,
+.types span {
+    font-size: 12px;
+    letter-spacing: 0.4px;
+    font-weight: 600;
+}
+
+.stats {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    text-align: center;
+}
+
+.stats p {
+    color: #404060;
+}
