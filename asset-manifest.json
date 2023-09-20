@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/pokemon-generator/static/css/main.10f7e368.css",
+    "main.js": "/pokemon-generator/static/js/main.99bfde8e.js",
+    "static/js/787.31b5add8.chunk.js": "/pokemon-generator/static/js/787.31b5add8.chunk.js",
+    "static/media/background.jpg": "/pokemon-generator/static/media/background.4f6f1a05a7d79bde26c8.jpg",
+    "static/media/Pokemon Solid.woff": "/pokemon-generator/static/media/Pokemon Solid.71ed1ed052493e405ec1.woff",
+    "static/media/Pokemon Classic.woff": "/pokemon-generator/static/media/Pokemon Classic.170295e4d7cca8dc3a32.woff",
+    "index.html": "/pokemon-generator/index.html",
+    "main.10f7e368.css.map": "/pokemon-generator/static/css/main.10f7e368.css.map",
+    "main.99bfde8e.js.map": "/pokemon-generator/static/js/main.99bfde8e.js.map",
+    "787.31b5add8.chunk.js.map": "/pokemon-generator/static/js/787.31b5add8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10f7e368.css",
+    "static/js/main.99bfde8e.js"
+  ]
+}
