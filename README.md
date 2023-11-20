@@ -8,4 +8,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 * [tachyons](https://tachyons.io/)
 	* For ready to use CSS styled components
 
-Look at [Working demo](https://face-recognition-dsag.onrender.com/) deployed at [Github](https://kylehek.github.io/pokemon-generator/).
+Look at [Working demo](https://kylehek.github.io/pokemon-generator/) deployed at [Github](https://github.com/).
